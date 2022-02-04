@@ -1,4 +1,4 @@
 import './style.css';
-import HTMLgenerator from './HTMLgenerator';
+import HTMLgenerator from './HTMLgenerator.js';
 
 HTMLgenerator();
