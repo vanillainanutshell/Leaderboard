@@ -1,4 +1,4 @@
 import './style.css';
-import HTMLgenerator from './HTMLgenerator.js';
+import getScore from './api.js';
 
-HTMLgenerator();
+getScore();
